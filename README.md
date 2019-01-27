@@ -1,3 +1,3 @@
 # DL-Plant-Disease-Recognition
 
-### Plant disease recognition in Deep Learning using Keras
+Plant disease recognition in Deep Learning using Keras
